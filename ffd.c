@@ -34,7 +34,7 @@ void sortDescending() {
 
 int main() {
 
-    printf("yo big dawg whats th bin capacity: ");
+    printf("bin capacity: ");
     scanf("%d", &capacity);
 
     printf("Enter number of items: ");
